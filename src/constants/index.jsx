@@ -12,7 +12,7 @@
   import { SiC, SiMongodb } from 'react-icons/si';
   import { DiDatabase } from 'react-icons/di';
   import ITC_Logo  from '../assets/ITC_Logo.png';
-  import Prep_Logo  from '../assets/Prep_logo.png';
+  import Prep_Logo  from '../assets/Prep_Logo.png';
 
 
   import image1 from "../assets/Proj1.png";
