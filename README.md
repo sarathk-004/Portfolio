@@ -1,8 +1,6 @@
-# React + Vite
+# Portfolio
+Welcome to my first ReactJS application! This project is a simple portfolio website built using ReactJS, Vite, and Tailwind CSS. It showcases my work and skills, and serves as a learning experience for my journey in building ReactJS Application.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Go through the application and feel free to connect with me via LinkedIn
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
