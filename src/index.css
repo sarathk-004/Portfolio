@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&family=Space+Grotesk:wght@300..700&family=Unbounded:wght@200..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  zoom: 110%;
+}
+:root {
+  font-family: 'Space Grotesk';
+}
+
+.highlight {
+  color: #3b82f6;
+}
+
+.gradient-corner {
+  position: relative;
+  overflow: hidden; /* Ensures the gradient doesn't overflow the container */
+}
+
+.gradient-corner::before {
+  content: '';
+  position: absolute;
+  top: -10%;
+  right: -10%;
+  width: 40%;
+  height: 80%;
+  background: radial-gradient(circle at top right, rgba(0, 0, 255, 0.4) 0%, transparent 70%);
+  z-index: 0; /* Ensure gradient is behind the content */
+}
+
