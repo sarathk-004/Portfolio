@@ -13,7 +13,7 @@ const Projects = () => {
               title={project.title}
               subtitle={project.subtitle}
               techstack={project.techstack}
-              link="#"
+              link={project.link}
             />
           </div>
         ))}
