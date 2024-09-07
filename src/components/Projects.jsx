@@ -19,7 +19,7 @@ const Projects = () => {
         ))}
       </div>
       <div className="flex items-center justify-center bg-blue-500/65 border-0 rounded-sm text-slate-200 lg:mr-10 lg:ml-10 cursor-pointer">
-        <button className="text-center font-semibold p-2 lg:text-lg" href=''>View More</button>
+        <button className="text-center font-semibold p-2 lg:text-lg" href='https://github.com/sarathk-004?tab=repositories'>View More</button>
       </div>
     </div>
   );
