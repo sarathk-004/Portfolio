@@ -8,7 +8,7 @@
                     <p className="mb-4 text-sm font-medium">{subtitle}</p>
                     <div className="flex flex-row items-center justify-between">
                         <p className="text-sm font-medium bg-gray-500 border-0 rounded-md p-4">{techstack}</p>
-                        <button className='text-blue-500 font-semibold' href='#'>View</button>
+                        <button className='text-blue-500 font-semibold'>{link}</button>
                     </div>
                 </div>
             </div>
