@@ -55,6 +55,7 @@
         "Developed an employee portal in internship duration for ITC (PSPD), one of the largest product manufacturing companies in India.",
       techstack: "HTML, CSS, JS, Node.js, MongoDB",
       image: image1,
+      link: ''
     },
     {
       title: "GITAM Colab",
@@ -62,12 +63,14 @@
         "Currently building an interface that helps students to collaborate within departments or inter department in the university to team up and work on projects.",
       techstack: "HTML, CSS, JS, Node.js, MongoDB",
       image: image2,
+      link: 'https://github.com/sarathk-004/GITAM-Colab'
     },
     {
       title: "AQI Data Visualization",
       subtitle: "Created functional dashboards on Tableau (Public) on various datasets provided. Used Air Quality Index (AQI) data",
       techstack: "Tableau",
       image: image3,
+      link: 'https://public.tableau.com/views/AQIDataVisualization/AirQualityovertheYears?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'
     },
   ];
 
