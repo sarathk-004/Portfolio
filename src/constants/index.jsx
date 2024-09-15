@@ -46,7 +46,7 @@
     text1:
       "The best part of being a <span class='highlight'>programmer</span> and an <span class='highlight'>artist</span> is the thrill of creating something delightful. <span class='highlight'>It's logic-driven creativity!</span>",
     text2:
-      "Welcome everybody! I am an undergrad student of GITAM University who's Adept at problem-solving, with a keen interest in developing efficient software solutions. My academic journey has equipped me with a deep understanding of computer science principles and a knack for problem-solving. I'm eager to apply my skills to develop innovative and efficient software solutions. I'm constantly seeking opportunities to learn and grow in a dynamic work environment, where I can contribute to technological advancements and make a meaningful impact."};
+      "Welcome! I am an undergrad student of GITAM University who's Adept at problem-solving, with a keen interest in developing efficient software solutions. My academic journey has equipped me with a deep understanding of computer science principles and a knack for problem-solving. I'm eager to apply my skills to develop innovative and efficient software solutions. I'm constantly seeking opportunities to learn and grow in a dynamic work environment, where I can contribute to technological advancements and make a meaningful impact."};
 
   export const PROJECTS = [
     {
