@@ -18,7 +18,7 @@
                 <FaLinkedin size={24} />
             </div>
         </a>
-        <a href="https://github.com/your-profile" target="_blank" rel="noopener noreferrer" className="text-gray-200">
+        <a href="https://github.com/sarathk-004/GITAM-Colab" target="_blank" rel="noopener noreferrer" className="text-gray-200">
             <div className="p-3 rounded-full bg-gray-900 hover:bg-gray-700">
                 <FaGithub size={24} />
             </div>
